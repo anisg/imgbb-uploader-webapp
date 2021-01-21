@@ -37,7 +37,7 @@
     "gatsby-plugin-webpack-size": "^1.0.0",
     "gatsby-source-filesystem": "^2.1.50",
     "gatsby-transformer-sharp": "^2.3.17",
-    "immer": "^6.0.9",
+    "immer": "^8.0.1",
     "modern-css-reset": "^1.1.0",
     "react": "^16.13.0",
     "react-dom": "^16.13.0",
